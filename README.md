@@ -12,4 +12,4 @@ This Scraper scrapes hotel names and hotel ids from hotelfriend.com website, tha
 * pip install -r requirements.txt
 * python Local_Business_Images_Scraper.py
 
-made by: https://w-e-ll.com/cv/
+made by: https://w-e-ll.com
